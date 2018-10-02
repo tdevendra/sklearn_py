@@ -1,6 +1,8 @@
-sklearn
+Samples using python sklearn library
 
-- iris dataset
+- DecisionTreeClassifier - iris dataset
 - Linear Regression - Single Variable
 - Linear Regression - Multiple Variable
 - Logistic Regression
+- SVM
+- 
