@@ -5,6 +5,5 @@ Samples using python sklearn library
 - Logistic Regression
 - DecisionTreeClassifier - iris dataset
 - DecisionTreeClassifier - Diabetes Readmission Prediction
-- Gradient Descent
 - SVM
 
